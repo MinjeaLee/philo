@@ -1,0 +1,28 @@
+0 1 has taken a fork
+0 1 has taken a fork
+0 1 is eating
+0 3 has taken a fork
+0 3 has taken a fork
+0 3 is eating
+100 0 has taken a fork
+205 1 is sleeping
+205 0 has taken a fork
+205 0 is eating
+205 4 has taken a fork
+205 3 is sleeping
+205 2 has taken a fork
+205 2 has taken a fork
+205 2 is eating
+405 3 is thinking
+405 4 has taken a fork
+405 4 is eating
+405 0 is sleeping
+408 1 is thinking
+408 1 has taken a fork
+123
+410 2 is sleeping
+410 3 has taken a fork
+410 1 has taken a fork
+410 1 is eating
+elapsed_time : 601 4
+601 4 died
